@@ -1,2 +1,2 @@
 # tevel_icu
-tevel.icu
+https://tevel.icu
